@@ -36,8 +36,8 @@ The game supports a **human vs. AI** mode.
 ---
 
 ## Skills Demonstrated
-Python classes and inheritance
-Turn-based game logic
-Dice rolling and randomization
-Store/purchasing system with strategic choices
-AI implementation
+- Python classes and inheritance
+- Turn-based game logic
+- Dice rolling and randomization
+- Store/purchasing system with strategic choices
+- AI implementation
